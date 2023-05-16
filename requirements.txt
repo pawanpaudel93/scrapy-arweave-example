@@ -1,0 +1,4 @@
+scrapy
+pillow
+botocore
+scrapy-arweave
